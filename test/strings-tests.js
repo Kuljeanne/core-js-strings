@@ -653,7 +653,7 @@ describe('strings-tasks optimal implementation', () => {
       assert.equal(
         fnStr.includes('lastIndexOf'),
         true,
-        'You need to use a different method, look for the appropriate method in the documentation https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String'
+        'You need to use a different method, look for the appropriate method in the documentation https://developer .mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String'
       );
     }
   );
